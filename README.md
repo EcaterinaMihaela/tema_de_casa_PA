@@ -41,5 +41,7 @@ plasei si maximizeaza valoarea capturii."
  - Fișierul main.c conține funcția principală care gestionează intrarea utilizatorului, generează date aleatorii pentru homari și calculează valoarea maximă folosind funcția knapsack.
  - Fișierul antet knapsack.h conține declarația funcției knapsack.
  - Fișierul knapsack.c conține implementarea funcției knapsack, care rezolvă problema rucsacului folosind programare dinamică.
+ - In folderul Data va fii generat dupa compilare fisierul text output.txt in care vor fii afisate datele de iesire: din totalul de homari disponibi combinatia cea mai favorabila care duce la maximizarea valorii plasei cu capacitatea maxima data.
  - Programul va solicita introducerea numărului de homari și a capacității plasei, va genera datele și va salva rezultatele în fișierul Data/output.txt. Acesta va contine toti homarii disponibili(numarul) alaturi de valorile si dimensiunile lor,capacitatea maxima a plasei date de utilizator,valoarea maximizata calculata si combinatia cea mai favorabila care a dus la solutie.
 - Astfel utilizatorul intereactioneaza in mod direct cu aplicatia furnizand datele de test.
+- Este furnizat atat codul in limbajul C cat si Python.
